@@ -7,3 +7,16 @@
 - [входные данные](./data/input.json)
 - [выходные данные](./data/output.json)
 
+## Запуск проекта
+
+Режим development:
+
+```
+npm run dev
+```
+
+Режим production:
+
+```
+npm run build
+```
